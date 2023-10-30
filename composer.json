@@ -1,0 +1,19 @@
+{
+    "name": "ryan/php_oo",
+    "autoload": {
+        "psr-4": {
+            "Ryan\\PhpOo\\": "src/",
+            "app\\": "app"
+        },
+        "files": [
+            
+        ]
+    },
+    "authors": [
+        {
+            "name": "Ryan Oliveira",
+            "email": "ryanprofissional02@gmail.com"
+        }
+    ],
+    "require": {}
+}
